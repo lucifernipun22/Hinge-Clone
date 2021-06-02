@@ -7,6 +7,11 @@ Check out the blog post here: https://lucifernipun22.medium.com/cloning-of-datin
 Hinge is a dating app which bills itself as an only dating app that emphasizes long-term connections between users.
 
 
+<a href="https://play.google.com/store/apps/details?id=com.nipun.hinge">
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+        alt="Get it on Google Play" height="80"/>
+</a> 
+
 # Screenshots
 
 ![test](https://miro.medium.com/max/875/1*0jN8Ukkk7_wSI9pC9tlJ9g.jpeg)
