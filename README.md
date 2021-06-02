@@ -1,9 +1,6 @@
 # Hinge Clone
 
 
-Check out the blog post here: https://lucifernipun22.medium.com/cloning-of-dating-app-hinge-in-just-3-days-67a3ae89bf55
-
-
 Hinge is a dating app which bills itself as an only dating app that emphasizes long-term connections between users.
 
 
@@ -19,11 +16,14 @@ Hinge is a dating app which bills itself as an only dating app that emphasizes l
 
 
 
+|||
+|:---|:--|
+|<img src=https://miro.medium.com/max/418/1*MRREJwOA42TfttojfrWtDQ.png height="700px" width="350px"/>|<img src=https://miro.medium.com/max/419/1*XyqEvvRDjPZuBapCj2oCjg.png height="700px" width="350px"/>
 
-![test](https://miro.medium.com/max/418/1*MRREJwOA42TfttojfrWtDQ.png);
-![test](https://miro.medium.com/max/419/1*XyqEvvRDjPZuBapCj2oCjg.png);
-![test](https://miro.medium.com/max/411/1*ZxzOwkQZYSKjEtPu7a8phA.png);
-![test](https://miro.medium.com/max/411/1*dyFPGbkuGuVsb8rajuJyMQ.png);
+|||
+|:--|:--|
+|<img src=https://miro.medium.com/max/411/1*ZxzOwkQZYSKjEtPu7a8phA.png height="700px" width="350px"/>|<img src=https://miro.medium.com/max/411/1*dyFPGbkuGuVsb8rajuJyMQ.png height="700px" width="350px"/>|
+
 
 
 # What does this app do?
@@ -37,4 +37,4 @@ Hinge allows users to filter matches based on traits that are important to them,
 
 
 [![Watch the video](https://github.com/diya31656/Hinge/blob/master/Screenshot%20(20).png)](https://www.youtube.com/watch?v=M38s3Ut4trY)
-
+Check out the blog post here: https://lucifernipun22.medium.com/cloning-of-dating-app-hinge-in-just-3-days-67a3ae89bf55
